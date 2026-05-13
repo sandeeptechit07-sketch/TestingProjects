@@ -59,7 +59,7 @@ export default function App() {
 
         {/* Button */}
         <button className="w-full bg-purple-800 hover:bg-purple-100 text-white rounded-md font-semibold transition">
-          sin up
+          log in 
         </button>
       </div>
     </div>
