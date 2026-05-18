@@ -37,7 +37,7 @@ export default function Services() {
       <div className="max-w-6xl mx-auto px-6 text-center">
         
         {/* Title */}
-        <h2 className="text-3xl font-bold mb-3">OUR SERVICES</h2>
+        <h2 className="text-3xl font-bold mb-3">My SERVICES</h2>
         <p className="text-gray-500 max-w-xl mx-auto mb-12">
           Dynamically Disseminate Timely Results Without Errorfree Testing
           Procedures. Globly actualize Highble Competently Deliver Cross.
